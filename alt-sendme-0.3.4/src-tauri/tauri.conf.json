@@ -22,21 +22,10 @@
         "maximizable": false,
         "center": true,
         "hiddenTitle": true,
-        "transparent": true,
+        "transparent": false,
         "decorations": true,
         "titleBarStyle": "Overlay",
-        "dragDropEnabled": true,
-        "windowEffects": {
-          "effects": [
-            "fullScreenUI",
-            "mica",
-            "tabbed",
-            "blur",
-            "acrylic"
-          ],
-          "state": "active",
-          "radius": 8
-        }
+        "dragDropEnabled": true
       }
     ],
     "security": {
