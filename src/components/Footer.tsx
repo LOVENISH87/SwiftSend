@@ -6,7 +6,7 @@ export const Footer = () => {
       <div className="mx-auto flex max-w-5xl flex-col items-center justify-between gap-4 sm:flex-row">
         <div className="flex items-center gap-2 text-sm text-muted-foreground">
           <Send className="h-3.5 w-3.5" />
-          <span>© 2026 SwiftSend — MIT License</span>
+          <span>© 2026 SwiftSend — Open Source & Free Forever</span>
         </div>
         <div className="flex gap-6 text-sm text-muted-foreground">
           <a href="#faq" className="transition-colors hover:text-foreground">FAQ</a>
